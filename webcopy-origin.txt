@@ -1,0 +1,208 @@
+Uri: https://loiren.xyz/
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\index.htm
+Content Type: text/html
+
+Uri: https://loiren.xyz/img/favicon.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\favicon.png
+Content Type: image/png
+
+Uri: https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\releases\v6.0.0-beta1\css\all.css
+Content Type: text/css
+
+Uri: https://loiren.xyz/_next/static/css/2d30a79a745f4ed18567.css
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\css\2d30a79a745f4ed18567.css
+Content Type: text/css
+
+Uri: https://loiren.xyz/_next/static/chunks/webpack-af8d060cb140570bcfb2.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\webpack-af8d060cb140570bcfb2.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/chunks/framework-92300432a1172ef1338b.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\framework-92300432a1172ef1338b.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/chunks/main-aed0d996664bbaad4a65.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\main-aed0d996664bbaad4a65.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/chunks/pages/_app-2b24c5bb858cbf35afc6.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\pages\_app-2b24c5bb858cbf35afc6.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/chunks/794-0228b4468feafcf97486.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\794-0228b4468feafcf97486.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/chunks/pages/index-e926e33a4b869cb4b55e.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\pages\index-e926e33a4b869cb4b55e.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/projects
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\projects
+Content Type: text/html
+
+Uri: https://loiren.xyz/about
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\about
+Content Type: text/html
+
+Uri: https://github.com/loirenn
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\loirenn.html
+Content Type: text/html
+
+Uri: https://discord.com/users/915326086932484126
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\users\915326086932484126.html
+Content Type: text/html
+
+Uri: https://loiren.xyz/img/techs/typescript.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\typescript.png
+Content Type: image/png
+
+Uri: https://loiren.xyz/img/techs/javascript.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\javascript.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/css.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\css.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/html.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\html.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/node.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\node.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/react.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\react.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/vue.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\vue.png
+Content Type: image/png
+
+Uri: https://loiren.xyz/img/techs/solid.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\solid.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/svelte.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\svelte.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/next.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\next.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/nuxt.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\nuxt.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/express.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\express.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/mongo.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\mongo.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/vercel.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\vercel.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/tailwind.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\tailwind.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/github.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\github.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/git.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\git.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/fontawesome.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\fontawesome.png
+Content Type: image/png
+
+Uri: https://loiren.xyz/img/techs/yarn.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\yarn.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/img/techs/heroku.svg
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\img\techs\heroku.svg
+Content Type: image/svg+xml
+
+Uri: https://loiren.xyz/_next/static/chunks/polyfills-eef578260fd80f8fff94.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\polyfills-eef578260fd80f8fff94.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/TQupIcpm02-UtxG19cNls/_buildManifest.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\TQupIcpm02-UtxG19cNls\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://loiren.xyz/_next/static/TQupIcpm02-UtxG19cNls/_ssgManifest.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\TQupIcpm02-UtxG19cNls\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800,900
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800,900);
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\css-1.css
+Content Type: text/css
+
+Uri: https://i.hizliresim.com/d8x6b2d.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\d8x6b2d.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://i.ibb.co/hZXc0p0/seritybanner.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\hZXc0p0\seritybanner.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/915331943875358731/962050065470459974/unknown.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\attachments\915331943875358731\962050065470459974\unknown.png
+Content Type: image/png
+
+Uri: https://wallpaperaccess.com/full/3053366.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\full\3053366.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/5ycEQXC.png
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\5ycEQXC.png
+Content Type: image/png
+
+Uri: https://loiren.xyz/_next/static/chunks/pages/projects-8d40b2c43758e02a6e3a.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\pages\projects-8d40b2c43758e02a6e3a.js
+Content Type: application/javascript
+
+Uri: https://github.com/templatet/
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\templatet\index.htm
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/avatars/967357549353500713/1261b01a8ab38fac0e2e5ce71bd99741.png?size=4096
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\avatars\967357549353500713\1261b01a8ab38fac0e2e5ce71bd99741.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/icons/701153938870894673/a567eb70003eb1c502894ac4408d5547.png?size=4096
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\icons\701153938870894673\a567eb70003eb1c502894ac4408d5547.png
+Content Type: image/png
+
+Uri: https://avatars.githubusercontent.com/u/103275381?s=400&u=c3a74a230d0bfa6d30ebee09ffbb76ef4291a42e&v=4
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\u\103275381.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.discordapp.net/attachments/969966773308887081/1030574473839120485/147135b25a0d0fcc409dba6355fead8aa.png?width=580&height=580
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\attachments\969966773308887081\1030574473839120485\147135b25a0d0fcc409dba6355fead8aa.png
+Content Type: image/png
+
+Uri: https://loiren.xyz/_next/static/chunks/pages/about-f771bb1733e828d85fe3.js
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\_next\static\chunks\pages\about-f771bb1733e828d85fe3.js
+Content Type: application/javascript
+
+Uri: https://discord.com/oauth2/authorize?client_id=953024785292607538&permissions=8&scope=bot applications.commands
+File Name: C:\Users\CASPER\Desktop\loiren.xyz\oauth2\authorize.html
+Content Type: text/html
+
